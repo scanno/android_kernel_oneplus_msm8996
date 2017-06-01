@@ -12,6 +12,7 @@
  */
 
 #define CREATE_TRACE_POINTS
+#define MAX_SSR_STRING_LEN 10
 #include "msm_vidc_common.h"
 #define MAX_SSR_STRING_LEN 10
 #include "msm_vidc_debug.h"
